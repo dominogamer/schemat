@@ -1,0 +1,18 @@
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\bin\Debug\net6.0-windows\schemat oragnizacyjny.exe
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\bin\Debug\net6.0-windows\schemat oragnizacyjny.deps.json
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\bin\Debug\net6.0-windows\schemat oragnizacyjny.runtimeconfig.json
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\bin\Debug\net6.0-windows\schemat oragnizacyjny.dll
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\bin\Debug\net6.0-windows\schemat oragnizacyjny.pdb
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat oragnizacyjny.csproj.AssemblyReference.cache
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat_oragnizacyjny.Form1.resources
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat_oragnizacyjny.Form2.resources
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat oragnizacyjny.csproj.GenerateResource.cache
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat oragnizacyjny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat oragnizacyjny.AssemblyInfoInputs.cache
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat oragnizacyjny.AssemblyInfo.cs
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat oragnizacyjny.csproj.CoreCompileInputs.cache
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat oragnizacyjny.dll
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\refint\schemat oragnizacyjny.dll
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat oragnizacyjny.pdb
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\schemat oragnizacyjny.genruntimeconfig.cache
+C:\Users\tarasinski.dawid\source\repos\schemat oragnizacyjny\schemat oragnizacyjny\obj\Debug\net6.0-windows\ref\schemat oragnizacyjny.dll
